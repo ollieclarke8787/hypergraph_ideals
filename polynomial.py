@@ -1,5 +1,3 @@
-#polynomials with integer coefficients
-
 from itertools import combinations
 import sys
 
@@ -409,7 +407,7 @@ if __name__ == "__main__":
                         if not holds:
                             exceptions.append((minor1, minor2))
     print("")
-    print("Number of exptions: {}".format(len(exceptions))
+    print("Number of exceptions: {}".format(len(exceptions))
     
                     
     
