@@ -1,5 +1,5 @@
 # Hypergraph Ideals
-Python module for working with polynomials, hypergraph ideals and s-polynomials.
+Python module for working with polynomials, hypergraph ideals and S-polynomials.
 
 ## Notes on running the code
 
